@@ -81,7 +81,7 @@
 	url = https://github.com/FlexBE/flexbe_behavior_engine.git
 [submodule "acquisition_state_machines/flexbe_app"]
 	path = acquisition_state_machines/flexbe_app
-	url = https://github.com/FlexBE/flexbe_app.git
+	url = https://github.com/frederico-klein/flexbe_app.git
 [submodule "acquisition_state_machines/acquisition_of_raw_data"]
 	path = acquisition_state_machines/acquisition_of_raw_data
 	url = https://github.com/opensimrt-ros/acquisition_of_raw_data.git
